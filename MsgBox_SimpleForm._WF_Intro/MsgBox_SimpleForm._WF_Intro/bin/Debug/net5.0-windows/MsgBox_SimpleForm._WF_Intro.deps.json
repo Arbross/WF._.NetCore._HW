@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MsgBox_SimpleForm._WF_Intro/1.0.0": {
+        "runtime": {
+          "MsgBox_SimpleForm._WF_Intro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MsgBox_SimpleForm._WF_Intro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
