@@ -1,0 +1,17 @@
+C:\Users\victor\source\repos\Second WF\Second WF\bin\Debug\net5.0-windows\Second WF.exe
+C:\Users\victor\source\repos\Second WF\Second WF\bin\Debug\net5.0-windows\Second WF.deps.json
+C:\Users\victor\source\repos\Second WF\Second WF\bin\Debug\net5.0-windows\Second WF.runtimeconfig.json
+C:\Users\victor\source\repos\Second WF\Second WF\bin\Debug\net5.0-windows\Second WF.runtimeconfig.dev.json
+C:\Users\victor\source\repos\Second WF\Second WF\bin\Debug\net5.0-windows\Second WF.dll
+C:\Users\victor\source\repos\Second WF\Second WF\bin\Debug\net5.0-windows\ref\Second WF.dll
+C:\Users\victor\source\repos\Second WF\Second WF\bin\Debug\net5.0-windows\Second WF.pdb
+C:\Users\victor\source\repos\Second WF\Second WF\obj\Debug\net5.0-windows\Second_WF.Form1.resources
+C:\Users\victor\source\repos\Second WF\Second WF\obj\Debug\net5.0-windows\Second WF.csproj.GenerateResource.cache
+C:\Users\victor\source\repos\Second WF\Second WF\obj\Debug\net5.0-windows\Second WF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\source\repos\Second WF\Second WF\obj\Debug\net5.0-windows\Second WF.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\Second WF\Second WF\obj\Debug\net5.0-windows\Second WF.AssemblyInfo.cs
+C:\Users\victor\source\repos\Second WF\Second WF\obj\Debug\net5.0-windows\Second WF.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Second WF\Second WF\obj\Debug\net5.0-windows\Second WF.dll
+C:\Users\victor\source\repos\Second WF\Second WF\obj\Debug\net5.0-windows\ref\Second WF.dll
+C:\Users\victor\source\repos\Second WF\Second WF\obj\Debug\net5.0-windows\Second WF.pdb
+C:\Users\victor\source\repos\Second WF\Second WF\obj\Debug\net5.0-windows\Second WF.genruntimeconfig.cache
