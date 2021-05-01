@@ -1,0 +1,19 @@
+C:\Users\victor\source\repos\Paint. WF\Paint. WF\bin\Debug\net5.0-windows\Paint. WF.exe
+C:\Users\victor\source\repos\Paint. WF\Paint. WF\bin\Debug\net5.0-windows\Paint. WF.deps.json
+C:\Users\victor\source\repos\Paint. WF\Paint. WF\bin\Debug\net5.0-windows\Paint. WF.runtimeconfig.json
+C:\Users\victor\source\repos\Paint. WF\Paint. WF\bin\Debug\net5.0-windows\Paint. WF.runtimeconfig.dev.json
+C:\Users\victor\source\repos\Paint. WF\Paint. WF\bin\Debug\net5.0-windows\Paint. WF.dll
+C:\Users\victor\source\repos\Paint. WF\Paint. WF\bin\Debug\net5.0-windows\ref\Paint. WF.dll
+C:\Users\victor\source\repos\Paint. WF\Paint. WF\bin\Debug\net5.0-windows\Paint. WF.pdb
+C:\Users\victor\source\repos\Paint. WF\Paint. WF\obj\Debug\net5.0-windows\Paint. WF.csproj.GenerateResource.cache
+C:\Users\victor\source\repos\Paint. WF\Paint. WF\obj\Debug\net5.0-windows\Paint. WF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\source\repos\Paint. WF\Paint. WF\obj\Debug\net5.0-windows\Paint. WF.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\Paint. WF\Paint. WF\obj\Debug\net5.0-windows\Paint. WF.AssemblyInfo.cs
+C:\Users\victor\source\repos\Paint. WF\Paint. WF\obj\Debug\net5.0-windows\Paint. WF.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Paint. WF\Paint. WF\obj\Debug\net5.0-windows\Paint. WF.dll
+C:\Users\victor\source\repos\Paint. WF\Paint. WF\obj\Debug\net5.0-windows\ref\Paint. WF.dll
+C:\Users\victor\source\repos\Paint. WF\Paint. WF\obj\Debug\net5.0-windows\Paint. WF.pdb
+C:\Users\victor\source\repos\Paint. WF\Paint. WF\obj\Debug\net5.0-windows\Paint. WF.genruntimeconfig.cache
+C:\Users\victor\source\repos\Paint. WF\Paint. WF\obj\Debug\net5.0-windows\Paint. WF.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\Paint. WF\Paint. WF\obj\Debug\net5.0-windows\Paint._WF.Paint.resources
+C:\Users\victor\source\repos\Paint. WF\Paint. WF\obj\Debug\net5.0-windows\Paint._WF.Properties.Resources.resources
