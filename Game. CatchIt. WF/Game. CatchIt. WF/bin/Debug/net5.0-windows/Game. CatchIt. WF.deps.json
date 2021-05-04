@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Game. CatchIt. WF/1.0.0": {
+        "runtime": {
+          "Game. CatchIt. WF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Game. CatchIt. WF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

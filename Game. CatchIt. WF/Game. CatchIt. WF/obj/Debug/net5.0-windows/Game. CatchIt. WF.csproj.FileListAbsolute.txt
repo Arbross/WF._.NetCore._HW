@@ -1,0 +1,19 @@
+C:\Users\victor\source\repos\Game. CatchIt. WF\Game. CatchIt. WF\bin\Debug\net5.0-windows\Game. CatchIt. WF.exe
+C:\Users\victor\source\repos\Game. CatchIt. WF\Game. CatchIt. WF\bin\Debug\net5.0-windows\Game. CatchIt. WF.deps.json
+C:\Users\victor\source\repos\Game. CatchIt. WF\Game. CatchIt. WF\bin\Debug\net5.0-windows\Game. CatchIt. WF.runtimeconfig.json
+C:\Users\victor\source\repos\Game. CatchIt. WF\Game. CatchIt. WF\bin\Debug\net5.0-windows\Game. CatchIt. WF.runtimeconfig.dev.json
+C:\Users\victor\source\repos\Game. CatchIt. WF\Game. CatchIt. WF\bin\Debug\net5.0-windows\Game. CatchIt. WF.dll
+C:\Users\victor\source\repos\Game. CatchIt. WF\Game. CatchIt. WF\bin\Debug\net5.0-windows\ref\Game. CatchIt. WF.dll
+C:\Users\victor\source\repos\Game. CatchIt. WF\Game. CatchIt. WF\bin\Debug\net5.0-windows\Game. CatchIt. WF.pdb
+C:\Users\victor\source\repos\Game. CatchIt. WF\Game. CatchIt. WF\obj\Debug\net5.0-windows\Game. CatchIt. WF.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\Game. CatchIt. WF\Game. CatchIt. WF\obj\Debug\net5.0-windows\Game._CatchIt._WF.Form1.resources
+C:\Users\victor\source\repos\Game. CatchIt. WF\Game. CatchIt. WF\obj\Debug\net5.0-windows\Game._CatchIt._WF.Properties.Resources.resources
+C:\Users\victor\source\repos\Game. CatchIt. WF\Game. CatchIt. WF\obj\Debug\net5.0-windows\Game. CatchIt. WF.csproj.GenerateResource.cache
+C:\Users\victor\source\repos\Game. CatchIt. WF\Game. CatchIt. WF\obj\Debug\net5.0-windows\Game. CatchIt. WF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\source\repos\Game. CatchIt. WF\Game. CatchIt. WF\obj\Debug\net5.0-windows\Game. CatchIt. WF.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\Game. CatchIt. WF\Game. CatchIt. WF\obj\Debug\net5.0-windows\Game. CatchIt. WF.AssemblyInfo.cs
+C:\Users\victor\source\repos\Game. CatchIt. WF\Game. CatchIt. WF\obj\Debug\net5.0-windows\Game. CatchIt. WF.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Game. CatchIt. WF\Game. CatchIt. WF\obj\Debug\net5.0-windows\Game. CatchIt. WF.dll
+C:\Users\victor\source\repos\Game. CatchIt. WF\Game. CatchIt. WF\obj\Debug\net5.0-windows\ref\Game. CatchIt. WF.dll
+C:\Users\victor\source\repos\Game. CatchIt. WF\Game. CatchIt. WF\obj\Debug\net5.0-windows\Game. CatchIt. WF.pdb
+C:\Users\victor\source\repos\Game. CatchIt. WF\Game. CatchIt. WF\obj\Debug\net5.0-windows\Game. CatchIt. WF.genruntimeconfig.cache
