@@ -1,0 +1,19 @@
+C:\Users\victor\source\repos\PictureBox. LinkedLabel. WF\PictureBox. LinkedLabel. WF\bin\Debug\net5.0-windows\PictureBox. LinkedLabel. WF.exe
+C:\Users\victor\source\repos\PictureBox. LinkedLabel. WF\PictureBox. LinkedLabel. WF\bin\Debug\net5.0-windows\PictureBox. LinkedLabel. WF.deps.json
+C:\Users\victor\source\repos\PictureBox. LinkedLabel. WF\PictureBox. LinkedLabel. WF\bin\Debug\net5.0-windows\PictureBox. LinkedLabel. WF.runtimeconfig.json
+C:\Users\victor\source\repos\PictureBox. LinkedLabel. WF\PictureBox. LinkedLabel. WF\bin\Debug\net5.0-windows\PictureBox. LinkedLabel. WF.runtimeconfig.dev.json
+C:\Users\victor\source\repos\PictureBox. LinkedLabel. WF\PictureBox. LinkedLabel. WF\bin\Debug\net5.0-windows\PictureBox. LinkedLabel. WF.dll
+C:\Users\victor\source\repos\PictureBox. LinkedLabel. WF\PictureBox. LinkedLabel. WF\bin\Debug\net5.0-windows\ref\PictureBox. LinkedLabel. WF.dll
+C:\Users\victor\source\repos\PictureBox. LinkedLabel. WF\PictureBox. LinkedLabel. WF\bin\Debug\net5.0-windows\PictureBox. LinkedLabel. WF.pdb
+C:\Users\victor\source\repos\PictureBox. LinkedLabel. WF\PictureBox. LinkedLabel. WF\obj\Debug\net5.0-windows\PictureBox. LinkedLabel. WF.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\PictureBox. LinkedLabel. WF\PictureBox. LinkedLabel. WF\obj\Debug\net5.0-windows\PictureBox._LinkedLabel._WF.Images.Arrows.resources
+C:\Users\victor\source\repos\PictureBox. LinkedLabel. WF\PictureBox. LinkedLabel. WF\obj\Debug\net5.0-windows\PictureBox._LinkedLabel._WF.Pictures.resources
+C:\Users\victor\source\repos\PictureBox. LinkedLabel. WF\PictureBox. LinkedLabel. WF\obj\Debug\net5.0-windows\PictureBox. LinkedLabel. WF.csproj.GenerateResource.cache
+C:\Users\victor\source\repos\PictureBox. LinkedLabel. WF\PictureBox. LinkedLabel. WF\obj\Debug\net5.0-windows\PictureBox. LinkedLabel. WF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\source\repos\PictureBox. LinkedLabel. WF\PictureBox. LinkedLabel. WF\obj\Debug\net5.0-windows\PictureBox. LinkedLabel. WF.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\PictureBox. LinkedLabel. WF\PictureBox. LinkedLabel. WF\obj\Debug\net5.0-windows\PictureBox. LinkedLabel. WF.AssemblyInfo.cs
+C:\Users\victor\source\repos\PictureBox. LinkedLabel. WF\PictureBox. LinkedLabel. WF\obj\Debug\net5.0-windows\PictureBox. LinkedLabel. WF.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\PictureBox. LinkedLabel. WF\PictureBox. LinkedLabel. WF\obj\Debug\net5.0-windows\PictureBox. LinkedLabel. WF.dll
+C:\Users\victor\source\repos\PictureBox. LinkedLabel. WF\PictureBox. LinkedLabel. WF\obj\Debug\net5.0-windows\ref\PictureBox. LinkedLabel. WF.dll
+C:\Users\victor\source\repos\PictureBox. LinkedLabel. WF\PictureBox. LinkedLabel. WF\obj\Debug\net5.0-windows\PictureBox. LinkedLabel. WF.pdb
+C:\Users\victor\source\repos\PictureBox. LinkedLabel. WF\PictureBox. LinkedLabel. WF\obj\Debug\net5.0-windows\PictureBox. LinkedLabel. WF.genruntimeconfig.cache
