@@ -1,0 +1,18 @@
+C:\Users\victor\source\repos\TODO List. WF\TODO List. WF\bin\Debug\net5.0-windows\TODO List. WF.exe
+C:\Users\victor\source\repos\TODO List. WF\TODO List. WF\bin\Debug\net5.0-windows\TODO List. WF.deps.json
+C:\Users\victor\source\repos\TODO List. WF\TODO List. WF\bin\Debug\net5.0-windows\TODO List. WF.runtimeconfig.json
+C:\Users\victor\source\repos\TODO List. WF\TODO List. WF\bin\Debug\net5.0-windows\TODO List. WF.runtimeconfig.dev.json
+C:\Users\victor\source\repos\TODO List. WF\TODO List. WF\bin\Debug\net5.0-windows\TODO List. WF.dll
+C:\Users\victor\source\repos\TODO List. WF\TODO List. WF\bin\Debug\net5.0-windows\ref\TODO List. WF.dll
+C:\Users\victor\source\repos\TODO List. WF\TODO List. WF\bin\Debug\net5.0-windows\TODO List. WF.pdb
+C:\Users\victor\source\repos\TODO List. WF\TODO List. WF\obj\Debug\net5.0-windows\TODO List. WF.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\TODO List. WF\TODO List. WF\obj\Debug\net5.0-windows\TODO_List._WF.Form1.resources
+C:\Users\victor\source\repos\TODO List. WF\TODO List. WF\obj\Debug\net5.0-windows\TODO List. WF.csproj.GenerateResource.cache
+C:\Users\victor\source\repos\TODO List. WF\TODO List. WF\obj\Debug\net5.0-windows\TODO List. WF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\source\repos\TODO List. WF\TODO List. WF\obj\Debug\net5.0-windows\TODO List. WF.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\TODO List. WF\TODO List. WF\obj\Debug\net5.0-windows\TODO List. WF.AssemblyInfo.cs
+C:\Users\victor\source\repos\TODO List. WF\TODO List. WF\obj\Debug\net5.0-windows\TODO List. WF.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\TODO List. WF\TODO List. WF\obj\Debug\net5.0-windows\TODO List. WF.dll
+C:\Users\victor\source\repos\TODO List. WF\TODO List. WF\obj\Debug\net5.0-windows\ref\TODO List. WF.dll
+C:\Users\victor\source\repos\TODO List. WF\TODO List. WF\obj\Debug\net5.0-windows\TODO List. WF.pdb
+C:\Users\victor\source\repos\TODO List. WF\TODO List. WF\obj\Debug\net5.0-windows\TODO List. WF.genruntimeconfig.cache
