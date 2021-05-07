@@ -1,0 +1,19 @@
+C:\Users\victor\source\repos\TrackBar. WF\TrackBar. WF\bin\Debug\net5.0-windows\TrackBar. WF.exe
+C:\Users\victor\source\repos\TrackBar. WF\TrackBar. WF\bin\Debug\net5.0-windows\TrackBar. WF.deps.json
+C:\Users\victor\source\repos\TrackBar. WF\TrackBar. WF\bin\Debug\net5.0-windows\TrackBar. WF.runtimeconfig.json
+C:\Users\victor\source\repos\TrackBar. WF\TrackBar. WF\bin\Debug\net5.0-windows\TrackBar. WF.runtimeconfig.dev.json
+C:\Users\victor\source\repos\TrackBar. WF\TrackBar. WF\bin\Debug\net5.0-windows\TrackBar. WF.dll
+C:\Users\victor\source\repos\TrackBar. WF\TrackBar. WF\bin\Debug\net5.0-windows\ref\TrackBar. WF.dll
+C:\Users\victor\source\repos\TrackBar. WF\TrackBar. WF\bin\Debug\net5.0-windows\TrackBar. WF.pdb
+C:\Users\victor\source\repos\TrackBar. WF\TrackBar. WF\obj\Debug\net5.0-windows\TrackBar. WF.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\TrackBar. WF\TrackBar. WF\obj\Debug\net5.0-windows\TrackBar._WF.Form1.resources
+C:\Users\victor\source\repos\TrackBar. WF\TrackBar. WF\obj\Debug\net5.0-windows\TrackBar._WF.Images.YesNo.resources
+C:\Users\victor\source\repos\TrackBar. WF\TrackBar. WF\obj\Debug\net5.0-windows\TrackBar. WF.csproj.GenerateResource.cache
+C:\Users\victor\source\repos\TrackBar. WF\TrackBar. WF\obj\Debug\net5.0-windows\TrackBar. WF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\source\repos\TrackBar. WF\TrackBar. WF\obj\Debug\net5.0-windows\TrackBar. WF.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\TrackBar. WF\TrackBar. WF\obj\Debug\net5.0-windows\TrackBar. WF.AssemblyInfo.cs
+C:\Users\victor\source\repos\TrackBar. WF\TrackBar. WF\obj\Debug\net5.0-windows\TrackBar. WF.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\TrackBar. WF\TrackBar. WF\obj\Debug\net5.0-windows\TrackBar. WF.dll
+C:\Users\victor\source\repos\TrackBar. WF\TrackBar. WF\obj\Debug\net5.0-windows\ref\TrackBar. WF.dll
+C:\Users\victor\source\repos\TrackBar. WF\TrackBar. WF\obj\Debug\net5.0-windows\TrackBar. WF.pdb
+C:\Users\victor\source\repos\TrackBar. WF\TrackBar. WF\obj\Debug\net5.0-windows\TrackBar. WF.genruntimeconfig.cache

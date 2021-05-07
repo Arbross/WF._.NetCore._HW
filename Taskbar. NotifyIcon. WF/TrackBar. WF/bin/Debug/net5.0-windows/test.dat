@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVote xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Vote>
+    <Name />
+    <Path>../../../Images/mars_seasons.jpg</Path>
+    <YesVotes>11</YesVotes>
+    <NoVotes>6</NoVotes>
+  </Vote>
+  <Vote>
+    <Name />
+    <Path>../../../Images/mars_colony.jpg</Path>
+    <YesVotes>7</YesVotes>
+    <NoVotes>11</NoVotes>
+  </Vote>
+</ArrayOfVote>
